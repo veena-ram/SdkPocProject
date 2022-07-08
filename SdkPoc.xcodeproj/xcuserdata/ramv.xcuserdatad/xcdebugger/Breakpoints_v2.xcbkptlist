@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4BFC2DDF-B5D7-4BCA-A396-11A0365D5356"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BBC367F-B1F3-4628-B69F-0FFF0F9E3696"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/SdkPocApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6CA1BE3-A54C-4756-9346-F09A3F4115D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/Views/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "GetDeviceInfo"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D6CA1BE3-A54C-4756-9346-F09A3F4115D3 - de50b32bfac8cec8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SdkPoc.GetDeviceInfo.init() -&gt; SdkPoc.GetDeviceInfo"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/Views/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "D6CA1BE3-A54C-4756-9346-F09A3F4115D3 - a2942520ba4b7d1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SdkPoc.GetDeviceInfo.generalInformation.getter : Swift.Array&lt;SdkPoc.GeneralInformation&gt;"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/Views/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "D6CA1BE3-A54C-4756-9346-F09A3F4115D3 - 99143322512a6c25"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SdkPoc.GetDeviceInfo.generalInformation.setter : Swift.Array&lt;SdkPoc.GeneralInformation&gt;"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/Views/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "D6CA1BE3-A54C-4756-9346-F09A3F4115D3 - 7a53dbd5ee1c338"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SdkPoc.GetDeviceInfo.generalInformation.modify : Swift.Array&lt;SdkPoc.GeneralInformation&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/Views/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D6CA1BE3-A54C-4756-9346-F09A3F4115D3 - e7f9882059ef74d8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SdkPoc.GetDeviceInfo.$generalInformation.getter : Combine.Published&lt;Swift.Array&lt;SdkPoc.GeneralInformation&gt;&gt;.Publisher"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/Views/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "D6CA1BE3-A54C-4756-9346-F09A3F4115D3 - e7f9882059ef74d8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SdkPoc.GetDeviceInfo.$generalInformation.setter : Combine.Published&lt;Swift.Array&lt;SdkPoc.GeneralInformation&gt;&gt;.Publisher"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/Views/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "D6CA1BE3-A54C-4756-9346-F09A3F4115D3 - 97c68792cb9ecdbe"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SdkPoc.GetDeviceInfo.$generalInformation.modify : Combine.Published&lt;Swift.Array&lt;SdkPoc.GeneralInformation&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/Views/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "213F88A0-4964-4A4B-B565-6E5D8F0EBD30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/Views/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getDeviceInfoData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47C65BBC-69C4-43B8-84E9-79AF66FECCD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/Views/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DeviceInformationView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CE850D8-D5DA-4297-90B0-E69393CA522C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/Views/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getDeviceInfo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "428A19DF-06DB-4124-929F-6C290F3C2BE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/GeneralInformation/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getDeviceInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "428A19DF-06DB-4124-929F-6C290F3C2BE3 - b9c319941cf58c49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AWSDK.ApplicationStatusInformation&gt;, Swift.Optional&lt;AWSDK.SharedDeviceInformation&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SdkPoc.GetDeviceInfo.getDeviceInfo() -&gt; ()"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/GeneralInformation/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "428A19DF-06DB-4124-929F-6C290F3C2BE3 - b9c319941cf58c49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AWSDK.ApplicationStatusInformation&gt;, Swift.Optional&lt;AWSDK.SharedDeviceInformation&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SdkPoc.GetDeviceInfo.getDeviceInfo() -&gt; ()"
+                  moduleName = "SdkPoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramv/Desktop/angular/SdkPoc/SdkPoc/GeneralInformation/DeviceInformationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "520">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAAFB590-0755-4EA7-932D-D7E3F11B82F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/GeneralInformation/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0124A575-CDDA-427D-9F76-2CDFB824C18F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/GeneralInformation/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BC3D8CC-480B-4F2B-816A-3A2E0F30D532"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/GeneralInformation/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DeviceInformationView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7779137F-B67A-466A-8A4F-3293EA425BE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/GeneralInformation/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F0A91C2-678A-429B-B4EC-CE223549CB31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/GeneralInformation/DeviceInformationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getDeviceInfoData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1BF7764-D527-41BD-93A5-26196BF0647A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/AWSDKHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchApplicationAssignmentStatus(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FCD40CB-835F-413D-86D9-001235D0203F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/DataLossPrevention/DocumentInteractionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "makeUIViewController(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0E0D1BD-4A58-421B-956C-E575CB1B51CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/DataLossPrevention/DocumentInteractionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "makeUIViewController(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD72482F-7635-46D6-940E-DABCAF6EDEB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SdkPoc/DataLossPrevention/NoSharePreviewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLayoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
